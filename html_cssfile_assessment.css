@@ -1,0 +1,29 @@
+body{
+  background-color: #87CEFA
+}
+h1{
+  border: 1px solid black;
+}
+p{
+  background: #fffca5;
+}
+#itemone{
+  text-decoration: overline;
+  color: purple;
+}
+li a {
+  color: red;
+}
+#blogtext{
+  border: 5xp solid black;
+}
+input{
+  border: 2px solid rgb(144, 0, 0);
+}
+textarea{
+  border: 2px solid rgb(144, 0, 0);
+}
+.exit{
+  background-color: blue;
+  border: 4px dashed yellow;
+}
